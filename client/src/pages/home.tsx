@@ -10,9 +10,9 @@ export default function Home() {
     <div className="min-h-screen bg-background text-foreground selection:bg-primary selection:text-black">
       <Navbar />
       <Hero />
-      <WorkGrid />
-      <Services />
-      <Contact />
+      <WorkGrid id="work" />
+      <Services id="services" />
+      <Contact id="contact" />
       <Footer />
     </div>
   );

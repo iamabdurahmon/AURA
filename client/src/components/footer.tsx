@@ -9,8 +9,8 @@ export function Footer() {
         </p>
         
         <div className="flex gap-6 text-sm text-muted-foreground font-mono">
-          <a href="#" className="hover:text-white transition-colors">Privacy</a>
-          <a href="#" className="hover:text-white transition-colors">Terms</a>
+          <a href="https://abdurahmonrahimov.uz/" target="_blank" className="hover:text-white transition-colors">Privacy</a>
+          <a href="https://abdurahmonrahimov.uz/" target="_blank" className="hover:text-white transition-colors">Terms</a>
         </div>
       </div>
     </footer>
