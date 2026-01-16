@@ -1,29 +1,29 @@
 # AURA - Modern Web Application 🚀
 
-**AURA** — bu React, TypeScript va Express asosida qurilgan zamonaviy, to'liq funksional veb-ilova. Loyiha yuqori darajadagi dizayn va optimallashtirilgan ishlash tezligiga ega.
+**AURA** is a modern, high-performance full-stack web application built with React, TypeScript, and Express. The project features a premium design aesthetic and is optimized for speed and scalability.
 
 ## 🌐 Live Demo
-Loyihani quyidagi havolalar orqali ko'rishingiz mumkin:
+Check out the application live at the following links:
 * **Frontend (Vercel):** [aura-studio.vercel.app](https://aura-backend-ctlf.onrender.com)
 * **Backend (Render):** [https://aura-backend-ctlf.onrender.com](https://aura-backend-ctlf.onrender.com)
 
-## 🛠 Texnologiyalar
-Loyihada quyidagi zamonaviy texnologiyalardan foydalanilgan:
+## 🛠 Tech Stack
+This project utilizes the latest industry-standard technologies:
 
 ### Frontend:
 * **React.js** & **TypeScript**
-* **Tailwind CSS** (Zamonaviy dizayn uchun)
-* **Vite** (Tezkor build tizimi)
-* **Shadcn UI** (Tayyor komponentlar kutubxonasi)
+* **Tailwind CSS** (For modern, responsive styling)
+* **Vite** (Next-generation frontend tooling)
+* **Shadcn UI** (High-quality accessible components)
 
 ### Backend:
 * **Node.js** & **Express**
-* **Drizzle ORM** (Ma'lumotlar bazasi bilan ishlash uchun)
-* **PostgreSQL** (Ma'lumotlar bazasi)
+* **Drizzle ORM** (TypeScript-first ORM)
+* **PostgreSQL** (Relational Database)
 
-## 🚀 Mahalliy kompyuterda ishga tushirish
+## 🚀 Local Installation
 
-1. Loyihani nusxalab oling:
+1. Clone the repository:
 ```bash
 git clone [https://github.com/iamabdurahmon/AURA.git](https://github.com/iamabdurahmon/AURA.git)
 cd AURA
